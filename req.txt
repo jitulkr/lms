@@ -1,0 +1,10 @@
+Django==4.0.1
+sqlparse==0.4.1
+pillow==8.1.0
+django-widget-tweaks
+django-bootstrap-modal-forms
+django-crispy-forms
+django-bootstrap3
+django_forms_bootstrap
+django-embed-video
+django-jazzmin
