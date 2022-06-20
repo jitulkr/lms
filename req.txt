@@ -1,4 +1,4 @@
-Django==4.0.1
+django==4.0.1
 sqlparse==0.4.1
 pillow==8.1.0
 django-widget-tweaks
@@ -8,3 +8,13 @@ django-bootstrap3
 django_forms_bootstrap
 django-embed-video
 django-jazzmin
+pyttsx3
+pyaudio
+SpeechRecognition
+datetime
+wikipedia
+#webbrowser
+#os
+#smtplib
+#subprocess
+ecapture

@@ -26,7 +26,7 @@
            <br>
             <form action="{% url 'register' %}" method="POST">
             {% csrf_token %}
-                <label>Username</label><br>
+                <label>First name</label><br>
                 <input type="text" name="username" required="Fill Username" style="background-color: white"><br>
                 <label>Email</label><br>
                 <input type="email" name="email" required="Fill Email" style="background-color: white"><br>
